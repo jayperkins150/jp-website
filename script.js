@@ -8,3 +8,12 @@ function changeHeadingText() {
     console.log("The forbidden button has been clicked! Oh no!");
 }
 
+document.querySelectorAll('.delayed-link').forEach(link => {
+  link.addEventListener('click', function(event) {
+    event.preventDefault(); 
+    const targetUrl = this.getAttribute('href'); 
+    setTimeout(() => {
+      window.location.href = targetUrl;
+    }, 500); 
+  });
+});
