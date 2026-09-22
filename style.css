@@ -426,7 +426,7 @@ img {
 .mySidenav2 a {
   position: absolute;
   top: 0%;
-  left: 0%;
+  right: 0%;
   transition: 0.5s;
   padding-left: 2.5%;
   padding-right: 2.5%
