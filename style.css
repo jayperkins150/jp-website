@@ -403,11 +403,10 @@ img {
 
 .mySidenav a {
   position: absolute;
-  left: -94%;
+  left: 0%;
   top: 0px;
   transition: 0.5s;
-  padding: 4%;
-  width: 100%;
+  padding: 2.5%;
   height: 100%;
   text-decoration: none;
   text-align: center;
