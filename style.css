@@ -478,8 +478,8 @@ img {
   position: absolute;
   right: 0;
   transition: 0.5s;
-  padding: 3%;
-  width: 2%;
+  padding: 4%;
+  width: 1%;
   height: 100%;
   text-decoration: none;
   z-index: 3;
