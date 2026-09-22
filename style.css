@@ -478,12 +478,12 @@ img {
   position: absolute;
   right: 0;
   transition: 0.5s;
-  padding-left: 3%;
-  padding-right: 3%;
-  width: 1%;
+  padding-left: 3.5%;
+  padding-right: 3.5%;
   height: 100%;
   text-decoration: none;
   z-index: 3;
+  align-items: center;
   text-align: center;
   vertical-align: middle;
   writing-mode: vertical-rl;
